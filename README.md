@@ -1,6 +1,3 @@
-Retail Sales Analysis Using SQL
-
-A comprehensive retail sales analysis project using MySQL, focused on deriving key business insights from transactional data.
 This project is part of my data analysis portfolio showcasing practical SQL skills.
 
 Project Overview
@@ -11,30 +8,21 @@ business improve performance and customer targeting.
 Tools Used
 - MySQL (Querying, Analysis)
 - Power BI (For visual dashboard – separate repo)
-- Excel (CSV cleaning)
 
 Key Business Questions Answered
 - What is the total revenue generated over time?
 - How does monthly revenue trend change?
 - Who are the top-performing customer segments by gender, age group, and product category?
 - What are the most purchased product categories?
-- What is the average quantity and spend per transaction**?
-
+- What is the average quantity and spend per transaction?
 
 Key Insights
 - Revenue peaks were observed during certain months, indicating seasonal buying patterns.
-- **Younger age groups (18–25) were top spenders in categories like fashion and electronics.
+- Younger age groups (18–25) were top spenders in categories like fashion and electronics.
 - Female customers accounted for a higher share of total purchases.
 - Top 3 product categories by revenue were Electronics, Fashion, and Groceries.
 
-
-Folder Content
-| File/Folder | Description |
-|-------------|-------------|
-| `dataset/retail_sales_data.csv` | Sample dataset used for analysis |
-| `sql_queries/retail_analysis.sql` | All SQL queries used in the analysis |
-| `README.md` | Project summary and insights |
-
+<img width="650" height="287" alt="SQL" src="https://github.com/user-attachments/assets/6c5b6c36-911d-4b84-b720-33adb670aec5" />
 
 Author
 Ima Bende Gwong 
