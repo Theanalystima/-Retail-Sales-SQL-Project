@@ -25,8 +25,7 @@ Key Insights
 <img width="650" height="287" alt="SQL" src="https://github.com/user-attachments/assets/6c5b6c36-911d-4b84-b720-33adb670aec5" />
 
 Author
-Ima Bende Gwong 
-Junior Data Analyst  
+theanalyst ima  
 imabende1414@gmail.com  
 🔗www.linkedin.com/in/theanalystima  
 
