@@ -28,7 +28,7 @@ Author
 Ima Bende Gwong 
 Junior Data Analyst  
 imabende1414@gmail.com  
-🔗[LinkedIn](https://www.linkedin.com/in/ima-bende-g1414)  
+🔗www.linkedin.com/in/theanalystima  
 
 
 If you liked this project or want to collaborate, feel free to connect with me on LinkedIn or GitHub.
